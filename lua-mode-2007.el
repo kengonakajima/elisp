@@ -1445,5 +1445,5 @@ left out."
 
 ;;; lua-mode.el ends here
 
-(message "lua-mode2 loaeded")
+(message "lua-mode-2007 is loaeded")
 

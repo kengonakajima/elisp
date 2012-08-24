@@ -1474,9 +1474,12 @@ nil means automark is unnecessary because there were no updates.")
   :group 'lua
   :type 'integer)
 
+
+
+
 (provide 'lua-mode)
 
-(message "lua-mode in ringo")
+(message "lua-mode-2011 is loaded")
 
 ;;; lua-mode.el ends here
 
